@@ -6,7 +6,6 @@
     "title": "Bloodspill",
     "tagline": "Short Description",
     "short_description": "Bloodspill is a fast-paced, pvp retro fps with one hit combat, featuring classic gamemodes like deathmatch, capture the flag and conquest!",
-    "long_description": "<h2>Description</h2><p>Bloodspill is a fast-paced, pvp retro fps with one hit combat, featuring classic game modes like Deathmatch, Capture the Flag and Conquest<p><video autoplay muted loop playsinline width='100%'><source src='assets/dm.webm' type='video/webm'></video><h3>Deathmatch</h3><p>Kill or be killed! The first player to fulfill the body count wins.</p><video autoplay muted loop playsinline width='100%'><source src='assets/ctf.webm' type='video/webm'></video><h3>Capture the Flag</h3><p>Get that flag!</p><p>Steal the flag from the enemy team and capture it at your own base to gain points and bring victory to your team.</p><video autoplay muted loop playsinline width='100%'><source src='assets/cq.webm' type='video/webm'></video><h3>Conquest</h3><p>Conquer and Defend!</p><p>Hold your conquered territory and pile up points to win the round!</p>",
     "genres": [
       "FPS",
       "Retro",
