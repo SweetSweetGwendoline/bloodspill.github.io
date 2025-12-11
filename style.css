@@ -99,7 +99,9 @@ nav {
     }
 
 .btn-secondary {
-    display: inline-block;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
     background-color: var(--mut);
     border: 1px solid #2a3646;
     color: var(--txt);
@@ -108,11 +110,20 @@ nav {
     text-decoration: none;
     font-weight: 600;
     transition: all 0.2s;
+    line-height: 1;
 }
+
+    .btn-secondary svg {
+        width: 20px;
+        height: 20px;
+        fill: currentColor;
+        flex-shrink: 0;
+    }
 
     .btn-secondary:hover {
         border-color: var(--acc);
         color: var(--acc);
+        background-color: rgba(119, 183, 255, 0.05);
     }
 
 .facts {
