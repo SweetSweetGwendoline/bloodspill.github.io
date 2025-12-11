@@ -151,7 +151,7 @@ nav {
 .description-content h2,
 .description-content h3 {
     margin-top: 2rem;
-    color: var(--txt);
+    color: var(--soft);
 }
 
 .video-block {
